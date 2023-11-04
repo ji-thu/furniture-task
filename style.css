@@ -1,0 +1,17 @@
+.maidenhome:hover{
+   color: rgb(117, 228, 27); 
+}
+nav{
+    background-color: white;
+}
+nav:hover{
+    background-color: rgba(241, 236, 91, 0.696);
+}
+label{
+    top: 0;
+}
+@media screen and (max-width: 400px){
+    footer img{
+        display: none;
+    }
+}
